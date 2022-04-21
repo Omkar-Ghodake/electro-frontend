@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/electro-frontend/static/css/main.86cb9f59.css",
+    "main.js": "/electro-frontend/static/js/main.8af4d015.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/electro-frontend/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/img1.jpg": "/electro-frontend/static/media/img1.e0ab9a76a694ba937bef.jpg",
+    "static/media/feat-prod-img1.jpg": "/electro-frontend/static/media/feat-prod-img1.cd31a4d1d3d3cde9b0c6.jpg",
+    "static/media/img2.jpg": "/electro-frontend/static/media/img2.e1a59bc9439b0daf9c8d.jpg",
+    "static/media/img4.jpg": "/electro-frontend/static/media/img4.0b6ea2884cf12aae292c.jpg",
+    "static/media/img3.jpg": "/electro-frontend/static/media/img3.4fe2252527e4a5fb0266.jpg",
+    "index.html": "/electro-frontend/index.html",
+    "main.86cb9f59.css.map": "/electro-frontend/static/css/main.86cb9f59.css.map",
+    "main.8af4d015.js.map": "/electro-frontend/static/js/main.8af4d015.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/electro-frontend/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86cb9f59.css",
+    "static/js/main.8af4d015.js"
+  ]
+}
